@@ -3,7 +3,10 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   width: 70%;
-}.cart-container{
+  border-right: 1px solid lightgray;
+}
+.cart-container{
+  padding: 10px;
   width:30%;
 }
 .body{

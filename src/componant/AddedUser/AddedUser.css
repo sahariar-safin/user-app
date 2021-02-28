@@ -1,0 +1,16 @@
+.added-user{
+    width: 60% ;
+    border: 1px solid lightgray;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.added-user img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
